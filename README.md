@@ -6,7 +6,7 @@
    <a href="https://www.facebook.com/profile.php?id=1164274742&mibextid=ZbWKwL" rel="nofollow"><img src="https://img.icons8.com/3d-fluency/66/null/facebook-circled.png"/></a>
  </div>
 </h1>
-<p align="center">I'm a beginner front-end developer. I love coding, which is to a certain degree a way to escape from reality for me.</p>
+<p align="center">I'm a junior front-end developer. I love coding, which is to a certain degree a way to escape from reality for me.</p>
 <div><h3 >My Tech Stacks</h></div>
 
 ![alt text](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
