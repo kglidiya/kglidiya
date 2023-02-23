@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<h2 align="center">Hi there, I'm Lidiya 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
+<p align="center">I'm a beginner front-end developer. I love coding, which is to a certain degree a way to escape from reality for me.</p>
 <!--
 **kglidiya/kglidiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
