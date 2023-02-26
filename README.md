@@ -23,13 +23,18 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kglidiya)
 
-<p align="center" >
+<p>
     <a href="https://www.codewars.com/users/kglidiya">
       <img src="https://github.r2v.ch/codewars?user=kglidiya" />
     </a>
 </p>
 
+<p>
+    <a href="https://www.codewars.com/users/kglidiya">
+      <img src="https://www.codewars.com/users/kglidiya/badges/large" />
+    </a>
+</p>
 
-[![codewars](https://www.codewars.com/users/kglidiya/badges/large)](https://www.codewars.com/users/kglidya) 
+
 
 
