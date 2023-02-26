@@ -22,3 +22,5 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kglidiya)
+
+[![codewars](https://www.codewars.com/users/kglidiya/badges/large)](https://www.codewars.com/users/kglidya) 
