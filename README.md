@@ -24,13 +24,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kglidiya)
 
 <p>
-    <a href="https://www.codewars.com/users/kglidiya">
-      <img src="https://github.r2v.ch/codewars?user=kglidiya" />
-    </a>
-</p>
-
-<p>
-    <a href="https://www.codewars.com/users/kglidiya">
+    <a href="https://www.codewars.com/users/kglidiya" target="_blanc>
       <img src="https://www.codewars.com/users/kglidiya/badges/large" />
     </a>
 </p>
