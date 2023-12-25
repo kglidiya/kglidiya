@@ -3,7 +3,6 @@
  <img src="https://github.com/kglidiya/kglidiya/blob/main/images/arseniy.png" align="right" alt="Arseniy"/>
  <div id="user-content-header">
   <a href="https://t.me/kglidia" rel="nofollow"><img src="https://img.icons8.com/3d-fluency/64/null/telegram.png" /></a>
-   <a href="https://www.facebook.com/profile.php?id=1164274742&mibextid=ZbWKwL" rel="nofollow"><img src="https://img.icons8.com/3d-fluency/66/null/facebook-circled.png"/></a>
  </div>
 </h1>
 <p align="center">I'm a junior front-end developer. I love coding, which is to a certain degree a way to escape from reality for me.</p>
