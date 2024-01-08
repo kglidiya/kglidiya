@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Lidiya 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="100%" height="32"/>
  <img src="https://github.com/kglidiya/kglidiya/blob/main/images/arseniy.png" align="right" alt="Arseniy"/>
  <div id="user-content-header">
   <a href="https://t.me/kglidia" rel="nofollow"><img src="https://img.icons8.com/3d-fluency/64/null/telegram.png" /></a>
